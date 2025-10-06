@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    
+}
+.classone{  
+    width: 300px;
+}
+
+.btn{
+    margin-left: 200px;
+}    
